@@ -1,6 +1,6 @@
 # VisionStack AGV：立体仓库式码垛智能车
 
-![Robot Demo](pic/320p.gif)
+![Robot Demo](pic/640p.gif)
 
 **基于视觉的自主决策、路径规划、取放工件的 AGV 小车**
 
